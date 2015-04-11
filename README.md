@@ -1,2 +1,2 @@
 # Hacker-Rank
-Code for Problems at Hacker Rank
+Code for Problems in Hacker Rank (some problems are not solved yet)
